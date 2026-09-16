@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="龙头蜈蚣：红龙头鹿角长须，其后串连圆形腰节">
+  <rect width="400" height="300" fill="#f6efe1"/>
+  <g stroke="#8a7a5e" stroke-width="2" fill="none" opacity="0.8">
+    <path d="M96 150 L380 150"/>
+  </g>
+  <g>
+    <g fill="#e8c36a" stroke="#8a6a20" stroke-width="2">
+      <circle cx="140" cy="150" r="21"/><circle cx="192" cy="150" r="21"/>
+      <circle cx="244" cy="150" r="21"/><circle cx="296" cy="150" r="21"/>
+      <circle cx="348" cy="150" r="21"/>
+    </g>
+    <g fill="#c0392b" stroke="#7a2018" stroke-width="1.5">
+      <circle cx="140" cy="150" r="8"/><circle cx="192" cy="150" r="8"/>
+      <circle cx="244" cy="150" r="8"/><circle cx="296" cy="150" r="8"/>
+      <circle cx="348" cy="150" r="8"/>
+    </g>
+    <g stroke="#2b2320" stroke-width="2" stroke-linecap="round">
+      <path d="M140 129 q-8 -14 -4 -24 M140 171 q-8 14 -4 24"/>
+      <path d="M192 129 q-8 -14 -4 -24 M192 171 q-8 14 -4 24"/>
+      <path d="M244 129 q-8 -14 -4 -24 M244 171 q-8 14 -4 24"/>
+      <path d="M296 129 q-8 -14 -4 -24 M296 171 q-8 14 -4 24"/>
+      <path d="M348 129 q-8 -14 -4 -24 M348 171 q-8 14 -4 24"/>
+    </g>
+  </g>
+  <g transform="translate(20,86)">
+    <path d="M76 30 Q76 4 104 10 Q128 0 140 20 Q130 70 92 74 Q52 78 34 56 Q44 34 76 30 Z"
+          fill="#c0392b" stroke="#7a2018" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M46 22 q-20 -26 -34 -18 q12 12 30 24 Z" fill="#e8c36a" stroke="#8a6a20" stroke-width="2"/>
+    <path d="M104 14 q14 -30 32 -22 q-14 16 -24 28 Z" fill="#e8c36a" stroke="#8a6a20" stroke-width="2"/>
+    <g stroke="#e8c36a" stroke-width="3" fill="none" stroke-linecap="round">
+      <path d="M44 16 l-8 -10 M34 22 l-12 -8 M108 10 l4 -12 M120 12 l10 -10"/>
+    </g>
+    <circle cx="64" cy="38" r="7" fill="#fdfaf2"/><circle cx="65" cy="38" r="3.4" fill="#2b2320"/>
+    <circle cx="104" cy="40" r="6" fill="#fdfaf2"/><circle cx="105" cy="40" r="3" fill="#2b2320"/>
+    <path d="M44 58 q14 14 30 8 q-6 12 -26 8 Z" fill="#fdfaf2" stroke="#7a2018" stroke-width="2"/>
+    <path d="M50 58 l5 9 M62 61 l4 8 M72 62 l3 7" stroke="#7a2018" stroke-width="1.6"/>
+    <path d="M34 48 q-26 6 -28 30 M40 52 q-20 12 -16 30" stroke="#7a2018" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>

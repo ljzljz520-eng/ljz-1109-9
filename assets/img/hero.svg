@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 380" role="img" aria-label="三只风筝伴流云飞天：菱形纹鹞、沙燕与彩蝶">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fbf4e2"/><stop offset="1" stop-color="#efe2c4"/>
+    </linearGradient>
+  </defs>
+  <rect width="520" height="380" fill="url(#sky)"/>
+  <g fill="none" stroke="#cbb98f" stroke-width="3" opacity="0.7">
+    <path d="M40 330 q20 -14 40 0 t40 0 t40 0" />
+    <path d="M330 350 q20 -14 40 0 t40 0 t40 0" />
+  </g>
+  <g transform="translate(70,70)">
+    <path d="M70 0 L130 70 L70 150 L10 70 Z" fill="#c0392b" stroke="#7a2018" stroke-width="3"/>
+    <path d="M70 0 L70 150 M10 70 L130 70" stroke="#f0ddb0" stroke-width="2"/>
+    <circle cx="70" cy="70" r="16" fill="#f0ddb0"/>
+    <path d="M70 150 q-14 30 -30 44 M70 150 q14 30 30 44" fill="none" stroke="#b8862e" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(250,40)">
+    <path d="M110 60 q-55 -48 -100 0 q42 -6 50 26 q-40 14 -34 46 q38 12 84 12 q46 0 84 -12 q6 -32 -34 -46 q8 -32 50 -26 q-45 -48 -100 0 Z"
+          fill="#fdfaf2" stroke="#2b2320" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M110 60 q-55 -48 -100 0 q40 10 56 40 q22 18 44 0 q16 -30 56 -40 q-45 -48 -100 0 Z" fill="#3a2f29"/>
+    <path d="M86 152 l-16 44 M134 152 l16 44" stroke="#2b2320" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="96" cy="126" r="6" fill="#2b2320"/><circle cx="124" cy="126" r="6" fill="#2b2320"/>
+    <path d="M110 138 q-10 12 0 18 q10 -6 0 -18" fill="#c0392b"/>
+  </g>
+  <g transform="translate(330,170)">
+    <path d="M60 55 Q5 -10 4 44 Q3 84 60 60 Z" fill="#c0392b" stroke="#7a2018" stroke-width="2.5"/>
+    <path d="M60 55 Q115 -10 116 44 Q117 84 60 60 Z" fill="#2f6d6f" stroke="#1d4547" stroke-width="2.5"/>
+    <path d="M60 58 Q18 96 26 128 Q44 98 60 64 Z" fill="#b8862e"/>
+    <path d="M60 58 Q102 96 94 128 Q76 98 60 64 Z" fill="#8a4a8f"/>
+    <ellipse cx="60" cy="55" rx="8" ry="22" fill="#2b2320"/>
+    <g stroke="#fdfaf2" stroke-width="2" fill="none" opacity="0.85">
+      <path d="M22 30 q18 8 28 22"/><path d="M98 30 q-18 8 -28 22"/>
+    </g>
+    <circle cx="28" cy="40" r="5" fill="#fdfaf2"/><circle cx="92" cy="40" r="5" fill="#fdfaf2"/>
+  </g>
+  <g fill="none" stroke="#9a8a70" stroke-width="1.6" opacity="0.8">
+    <path d="M140 150 q120 60 200 70"/>
+    <path d="M360 120 q60 40 90 120"/>
+  </g>
+</svg>

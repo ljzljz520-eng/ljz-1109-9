@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="软翅彩蝶：上翅挺括，下翅柔软飘动，红蓝花纹">
+  <rect width="400" height="300" fill="#f6efe1"/>
+  <g transform="translate(200,150)">
+    <path d="M-6 -50 Q-130 -96 -140 -6 Q-128 44 -52 34 Q-30 58 -14 30 Z" fill="#c0392b" stroke="#7a2018" stroke-width="3"/>
+    <path d="M6 -50 Q130 -96 140 -6 Q128 44 52 34 Q30 58 14 30 Z" fill="#2f6d6f" stroke="#1d4547" stroke-width="3"/>
+    <path d="M-4 -38 Q-66 -18 -78 18 q-10 26 26 24 q34 -6 50 -44 Z" fill="#b8862e" stroke="#7a5418" stroke-width="2.5"/>
+    <path d="M4 -38 Q66 -18 78 18 q10 26 -26 24 q-34 -6 -50 -44 Z" fill="#8a4a8f" stroke="#5a2d5e" stroke-width="2.5"/>
+    <ellipse cx="0" cy="-8" rx="9" ry="56" fill="#2b2320"/>
+    <path d="M-5 -60 q-14 -22 -28 -22 M5 -60 q14 -22 28 -22" stroke="#2b2320" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <circle cx="-29" cy="-80" r="5" fill="#2b2320"/><circle cx="29" cy="-80" r="5" fill="#2b2320"/>
+    <g fill="#fdfaf2">
+      <circle cx="-92" cy="-34" r="9"/><circle cx="-70" cy="-8" r="6"/><circle cx="-52" cy="26" r="7"/>
+      <circle cx="92" cy="-34" r="9"/><circle cx="70" cy="-8" r="6"/><circle cx="52" cy="26" r="7"/>
+    </g>
+    <path d="M-120 4 q16 -4 20 10 M120 4 q-16 -4 -20 10" stroke="#fdfaf2" stroke-width="2.5" fill="none" opacity="0.8"/>
+  </g>
+</svg>

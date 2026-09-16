@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="七星六角板鹞：黑面七星纹，上排葫芦哨口">
+  <rect width="400" height="300" fill="#f6efe1"/>
+  <g transform="translate(200,158)">
+    <polygon points="0,-110 95,-55 95,55 0,110 -95,55 -95,-55"
+             fill="#2b2320" stroke="#17120f" stroke-width="4"/>
+    <polygon points="0,-86 74,-43 74,43 0,86 -74,43 -74,-43"
+             fill="none" stroke="#b8862e" stroke-width="2.5"/>
+    <g stroke="#b8862e" stroke-width="2" fill="#fdfaf2">
+      <circle cx="0" cy="-46" r="8"/>
+      <circle cx="-40" cy="-23" r="8"/><circle cx="40" cy="-23" r="8"/>
+      <circle cx="-40" cy="23" r="8"/><circle cx="40" cy="23" r="8"/>
+      <circle cx="0" cy="0" r="11" fill="#c0392b" stroke="#7a2018"/>
+      <circle cx="0" cy="46" r="8"/>
+    </g>
+    <g stroke="#b8862e" stroke-width="2" fill="none">
+      <path d="M0 -46 L-40 -23 L-40 23 L0 46 L40 23 L40 -23 Z"/>
+      <path d="M0 -46 L40 -23 L40 23 L0 46 L-40 23 L-40 -23 Z" opacity="0.5"/>
+    </g>
+    <path d="M-95 -55 l26 -12 v26 l-26 14 Z" fill="#c0392b" stroke="#7a2018" stroke-width="2"/>
+    <path d="M95 -55 l-26 -12 v26 l26 14 Z" fill="#c0392b" stroke="#7a2018" stroke-width="2"/>
+  </g>
+  <g>
+    <g fill="#d86b2c" stroke="#8a3c10" stroke-width="2">
+      <path d="M148 34 q0 -18 16 -18 q16 0 16 18 v8 h-32 Z"/>
+      <ellipse cx="164" cy="52" rx="20" ry="12"/>
+      <path d="M220 30 q0 -18 16 -18 q16 0 16 18 v10 h-32 Z"/>
+      <ellipse cx="236" cy="50" rx="20" ry="12"/>
+    </g>
+    <circle cx="164" cy="52" r="5" fill="#5c2f10"/><circle cx="236" cy="50" r="5" fill="#5c2f10"/>
+  </g>
+</svg>

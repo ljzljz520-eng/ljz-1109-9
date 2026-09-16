@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="蒙面沙燕上绘制红黑福寿纹样，旁有颜料碟与毛笔">
+  <rect width="400" height="300" fill="#fbf4e2"/>
+  <rect x="0" y="232" width="400" height="68" fill="#e8d9b8"/>
+  <g transform="translate(118,30)">
+    <path d="M82 10 Q6 54 28 128 q40 20 54 0 q22 -74 0 -118 Z"
+          fill="#fdfaf2" stroke="#c9b890" stroke-width="2"/>
+    <path d="M82 10 Q6 54 28 128 q30 -8 44 -30 q-8 -46 10 -88 Z" fill="#3a2f29" opacity="0.92"/>
+    <path d="M82 10 Q158 54 136 128 q-30 -8 -44 -30 q8 -46 -10 -88 Z" fill="#3a2f29" opacity="0.92"/>
+    <path d="M52 86 q14 -12 22 2 q8 -14 22 -2 q-2 16 -22 18 q-20 -2 -22 -18 Z" fill="#c0392b"/>
+    <circle cx="66" cy="120" r="4" fill="#2b2320"/>
+    <circle cx="98" cy="120" r="4" fill="#2b2320"/>
+    <path d="M82 128 l-8 30 M82 128 l8 30" stroke="#3a2f29" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(286,70)">
+    <ellipse cx="0" cy="0" rx="16" ry="7" fill="#c0392b"/><ellipse cx="0" cy="2" rx="16" ry="7" fill="#d3543f"/>
+    <ellipse cx="34" cy="24" rx="16" ry="7" fill="#2f6d6f"/>
+    <ellipse cx="-10" cy="48" rx="16" ry="7" fill="#b8862e"/>
+  </g>
+  <g transform="translate(268,150) rotate(-35)">
+    <rect x="0" y="-2" width="70" height="4" fill="#6b4a23"/>
+    <path d="M70 -4 L86 0 L70 4 Z" fill="#2b2320"/>
+  </g>
+  <text x="200" y="280" text-anchor="middle" font-size="15" fill="#6b5d52" font-family="serif">拓样 · 勾线 · 重彩开相</text>
+</svg>

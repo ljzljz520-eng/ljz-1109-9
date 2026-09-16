@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="五福捧寿肥燕：黑翅白腹，红蝠与寿桃纹">
+  <rect width="400" height="300" fill="#f6efe1"/>
+  <g transform="translate(200,150)">
+    <path d="M0 -104 Q-150 -70 -132 26 q58 30 100 8 l16 64 h32 l16 -64 q42 22 100 -8 Q150 -70 0 -104 Z"
+          fill="#fdfaf2" stroke="#3a2f29" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M0 -104 Q-150 -70 -132 26 q44 -24 78 -30 q14 -40 30 -56 Z" fill="#3a2f29"/>
+    <path d="M0 -104 Q150 -70 132 26 q-44 -24 -78 -30 q-14 -40 -30 -56 Z" fill="#3a2f29"/>
+    <path d="M-70 -12 q26 -10 40 -34 q14 24 40 34 q-4 26 -40 30 q-36 -4 -40 -30 Z" fill="#c0392b"/>
+    <g fill="#c0392b">
+      <path d="M-104 -32 q18 -14 30 0 q-4 14 -30 0 Z"/>
+      <path d="M74 -32 q18 -14 30 0 q-4 14 -30 0 Z"/>
+      <path d="M-108 14 q16 -6 24 8 q-14 8 -24 -8 Z"/>
+      <path d="M84 14 q16 14 24 -8 q-8 -14 -24 8 Z"/>
+    </g>
+    <path d="M0 24 q-20 0 -20 20 q0 20 20 30 q20 -10 20 -30 q0 -20 -20 -20 Z" fill="#d3543f" stroke="#962d22" stroke-width="2"/>
+    <path d="M-8 -2 q4 -6 8 0 q4 -6 8 0" stroke="#7a2018" stroke-width="2" fill="none"/>
+    <circle cx="-24" cy="-30" r="7" fill="#fdfaf2" stroke="#2b2320" stroke-width="2.5"/>
+    <circle cx="24" cy="-30" r="7" fill="#fdfaf2" stroke="#2b2320" stroke-width="2.5"/>
+    <circle cx="-24" cy="-30" r="3" fill="#2b2320"/><circle cx="24" cy="-30" r="3" fill="#2b2320"/>
+    <path d="M-14 72 l-10 34 M14 72 l10 34" stroke="#3a2f29" stroke-width="5" stroke-linecap="round"/>
+  </g>
+</svg>

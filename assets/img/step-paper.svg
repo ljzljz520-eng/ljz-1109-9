@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="绢纸蒙在燕形骨架上，小刷沿竹条涂浆糊">
+  <rect width="400" height="300" fill="#fbf4e2"/>
+  <rect x="0" y="232" width="400" height="68" fill="#e8d9b8"/>
+  <g transform="translate(118,34)">
+    <path d="M82 6 Q4 52 26 130 q40 22 56 0 q22 -78 -0 -124 Z"
+          fill="#fdfaf2" stroke="#c9b890" stroke-width="2"/>
+    <path d="M82 6 Q4 52 26 130 M82 6 Q160 52 138 130 M82 6 L82 188 M40 104 L124 104"
+          fill="none" stroke="#b59a5e" stroke-width="4" stroke-linecap="round" opacity="0.85"/>
+    <path d="M40 60 q42 20 84 0" fill="none" stroke="#b59a5e" stroke-width="3"/>
+    <path d="M70 150 l-12 34 M94 150 l12 34" stroke="#b59a5e" stroke-width="4" fill="none" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(262,120) rotate(28)">
+    <rect x="0" y="0" width="54" height="13" rx="3" fill="#8a5a2b"/>
+    <rect x="46" y="2" width="30" height="9" rx="2" fill="#c9b890"/>
+    <path d="M72 2 q8 2.5 8 4.5 t-8 4.5" fill="#d8c9ab" stroke="#b8a678" stroke-width="1.5"/>
+  </g>
+  <g transform="translate(300,180)">
+    <ellipse cx="0" cy="14" rx="26" ry="9" fill="#fdfaf2" stroke="#c9b890" stroke-width="2"/>
+    <path d="M-18 12 q18 -10 36 0" fill="#e9e0c8"/>
+  </g>
+  <g transform="translate(30,120)">
+    <path d="M0 0 L40 0 L30 60 L10 60 Z" fill="none" stroke="#8a8a8a" stroke-width="2.5"/>
+    <circle cx="26" cy="74" r="7" fill="none" stroke="#8a8a8a" stroke-width="2.5"/>
+  </g>
+  <text x="200" y="280" text-anchor="middle" font-size="15" fill="#6b5d52" font-family="serif">蒙面 · 上浆 · 包边阴干</text>
+</svg>

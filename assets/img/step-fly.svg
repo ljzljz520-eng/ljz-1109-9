@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="彩绘沙燕腾空，孩童牵线奔跑，天空流云">
+  <rect width="400" height="300" fill="#eaf0e6"/>
+  <path d="M0 226 q100 -18 200 0 t200 0 V300 H0 Z" fill="#cfe0b8"/>
+  <g fill="none" stroke="#cdbf9e" stroke-width="3" opacity="0.8">
+    <path d="M30 60 q18 -12 36 0 t36 0"/><path d="M268 120 q18 -12 36 0 t36 0"/>
+  </g>
+  <g transform="translate(238,26)">
+    <path d="M70 38 Q0 8 30 86 q28 14 40 0 q22 -62 0 -48 Z" fill="#fdfaf2" stroke="#2b2320" stroke-width="3"/>
+    <path d="M70 38 Q0 8 30 86 q14 -18 24 -40 Z" fill="#3a2f29"/>
+    <path d="M70 38 Q140 8 110 86 q-14 -18 -24 -40 Z" fill="#3a2f29"/>
+    <circle cx="60" cy="62" r="4" fill="#2b2320"/><circle cx="80" cy="62" r="4" fill="#2b2320"/>
+    <path d="M54 100 l-10 26 M86 100 l10 26" stroke="#2b2320" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <path d="M300 92 Q200 150 118 206" fill="none" stroke="#8a7a5e" stroke-width="1.6"/>
+  <g transform="translate(86,196)" stroke="#2b2320" stroke-width="3" fill="none" stroke-linecap="round">
+    <circle cx="30" cy="0" r="10" fill="#e8c39a"/>
+    <path d="M30 10 l-4 34 M30 14 l22 14 M30 14 l-18 18 M26 44 l-14 22 M26 44 l16 22"/>
+  </g>
+  <path d="M52 232 q10 -8 20 0 t20 0" stroke="#7a6a4e" stroke-width="2" fill="none" opacity="0.6"/>
+  <text x="200" y="282" text-anchor="middle" font-size="15" fill="#5f6b4a" font-family="serif">拴提线 · 逆风起飞 · 调尾配重</text>
+</svg>

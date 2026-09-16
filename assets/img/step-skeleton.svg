@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="烤灯上的竹条与已扎好的十字沙燕骨架">
+  <rect width="400" height="300" fill="#fbf4e2"/>
+  <rect x="0" y="232" width="400" height="68" fill="#e8d9b8"/>
+  <g transform="translate(150,40)">
+    <g fill="none" stroke="#9c7b3f" stroke-width="5" stroke-linecap="round">
+      <path d="M50 20 Q-18 62 6 130"/>
+      <path d="M50 20 Q118 62 94 130"/>
+      <path d="M50 20 L50 175"/>
+      <path d="M14 104 L86 104"/>
+      <path d="M30 48 q20 14 40 0"/>
+    </g>
+    <g stroke="#7a5c28" stroke-width="3">
+      <circle cx="50" cy="20" r="7" fill="none"/>
+      <circle cx="50" cy="104" r="6" fill="none"/>
+    </g>
+  </g>
+  <g transform="translate(36,78)">
+    <path d="M0 90 q16 -6 30 0 l-6 14 H6 Z" fill="#5c4a33"/>
+    <path d="M30 92 h44" stroke="#5c4a33" stroke-width="6" stroke-linecap="round"/>
+    <path d="M40 96 q10 -16 20 0" stroke="#d86b2c" stroke-width="3" fill="none"/>
+    <path d="M46 84 q6 -10 12 0" fill="#e8a13c" opacity="0.9"/>
+  </g>
+  <g transform="translate(300,120)" stroke="#5c4a33" stroke-width="4" stroke-linecap="round">
+    <line x1="0" y1="0" x2="60" y2="70"/>
+    <line x1="60" y1="0" x2="0" y2="70"/>
+  </g>
+  <g stroke="#c0392b" stroke-width="2" opacity="0.7">
+    <path d="M196 150 l16 8 M204 150 l-16 8 M204 158 l-16 -8 M196 158 l16 -8"/>
+  </g>
+  <text x="200" y="280" text-anchor="middle" font-size="15" fill="#6b5d52" font-family="serif">选竹 · 烤弯 · 十字绑扎</text>
+</svg>

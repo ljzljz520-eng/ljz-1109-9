@@ -1,0 +1,12 @@
+{
+  "name": "zhiyuanlu-kite-craft-site",
+  "version": "1.4.0",
+  "private": true,
+  "description": "纸鸢录 · 传统风筝工艺静态站（manifest 驱动，无脚本可访问）",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "validate": "node scripts/validate.js",
+    "test": "node scripts/build.js && node scripts/validate.js"
+  },
+  "engines": { "node": ">=16" }
+}

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="百鸟朝凤：红金冠羽展翅，五条卷草云纹长尾">
+  <rect width="400" height="300" fill="#f6efe1"/>
+  <g transform="translate(170,128)">
+    <path d="M0 -40 Q-120 -86 -146 6 Q-118 40 -40 22 Q-18 10 0 6 Z" fill="#c0392b" stroke="#7a2018" stroke-width="3"/>
+    <path d="M0 -40 Q120 -86 146 6 Q118 40 40 22 Q18 10 0 6 Z" fill="#d4793a" stroke="#8a4517" stroke-width="3"/>
+    <g fill="none" stroke="#b8862e" stroke-width="2.4" opacity="0.9">
+      <path d="M-120 -34 q34 18 52 40"/><path d="M-84 -56 q24 18 36 40"/>
+      <path d="M120 -34 q-34 18 -52 40"/><path d="M84 -56 q-24 18 -36 40"/>
+    </g>
+    <path d="M0 -44 q-16 -10 -20 -30 q14 8 20 22 Z" fill="#b8862e"/>
+    <path d="M0 -44 q16 -10 20 -30 q-14 8 -20 22 Z" fill="#b8862e"/>
+    <circle cx="0" cy="-34" r="13" fill="#2f6d6f" stroke="#1d4547" stroke-width="2.5"/>
+    <path d="M8 -38 l16 -4 l-12 10 Z" fill="#e8b93f"/>
+    <circle cx="-4" cy="-36" r="3" fill="#fdfaf2"/>
+    <path d="M-8 -20 Q0 30 -14 64 L14 64 Q0 30 8 -20 Z" fill="#8a4a8f" stroke="#5a2d5e" stroke-width="2.5"/>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-width="4">
+    <path d="M168 192 q-30 40 -86 52" stroke="#c0392b"/>
+    <path d="M176 192 q-14 46 -50 78" stroke="#b8862e"/>
+    <path d="M184 192 q6 52 6 88" stroke="#2f6d6f"/>
+    <path d="M192 192 q26 46 64 70" stroke="#8a4a8f"/>
+    <path d="M200 192 q44 34 96 40" stroke="#d4793a"/>
+  </g>
+  <g fill="#b8862e">
+    <circle cx="82" cy="244" r="5"/><circle cx="126" cy="270" r="5"/>
+    <circle cx="190" cy="280" r="5"/><circle cx="256" cy="262" r="5"/><circle cx="296" cy="232" r="5"/>
+  </g>
+</svg>
